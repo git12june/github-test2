@@ -2,3 +2,5 @@
 this is another text file added
 
 Adding some more texts to see git dif
+
+some more text to see cached
